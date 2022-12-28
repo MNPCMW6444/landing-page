@@ -12,13 +12,13 @@ let content = {
         content:
           "Cognitive function and memory antiaoxidant properties and anti-inflamatory effects- protect the brain from oxidative stress and damage.",
         title: "Bilberry fruit",
-        iconName: "fa-solid fa-leaf",
+        iconName: "fa-regular fa-blueberries",
       },
       2: {
         content:
           "Increase the production of acetylcholine. a neurotransmitter that is involved in learning and memory.",
         title: "DMAE",
-        iconName: "fa-solid fa-leaf",
+        iconName: "fa-brands fa-envira",
       },
       3: {
         content: "Emotion regulation, sharpness and working memory.",
@@ -29,7 +29,7 @@ let content = {
         content:
           "Increases certain brain chemicals involved in thinking, and memory.",
         title: "Bacopa Monnieri",
-        iconName: "fa-solid fa-leaf",
+        iconName: "fa-solid fa-brain-circuit",
       },
       image: "Assets/image1.png",
     },
@@ -38,25 +38,25 @@ let content = {
         content:
           "Reducing the risk of age-relates cognitive decline, synthesis of neurotransmitters, regulation of nerve impulses, and maintenance of health brain cells.",
         title: "Magnesium",
-        iconName: "fa-solid fa-leaf",
+        iconName: "fa-solid fa-trillium",
       },
       2: {
         content:
           "Inhibiting the breakdown of acetylcholine. A neurotransmitter that is involved in learning and memory. Antioxidant properties",
         title: "Huperzine A",
-        iconName: "fa-solid fa-leaf",
+        iconName: "fa-duotone fa-ear-deaf",
       },
       3: {
         content:
           "Memory and cognitive performance, anti-inflammatory effects, reducing the risk of age- related cognitive decline.",
         title: "Zinc",
-        iconName: "fa-solid fa-leaf",
+        iconName: "fa-duotone fa-leafy-green",
       },
       4: {
         content:
           "Synthesis and metabolism of neurotransmitters, attention, executive functions and memory.",
         title: "Phosphatidylserine",
-        iconName: "fa-solid fa-leaf",
+        iconName: "fa-duotone fa-head-side-brain",
       },
       image: "Assets/image2.png",
     },
@@ -65,25 +65,25 @@ let content = {
         content:
           "Vitamin C is an antioxidant that helps protect the brain, vitamins B6, B12 and folate(B9) are important for the synthesis of neurotransmitters.",
         title: "Vitamins",
-        iconName: "fa-solid fa-leaf",
+        iconName: "fa-duotone fa-capsules",
       },
       2: {
         content:
           "Regulation of nerve impulses and has a calming effect on the brain, reduce anxiety and stress, improve mood.",
         title: "Gaba",
-        iconName: "fa-solid fa-leaf",
+        iconName: "fa-duotone fa-brain-arrow-curved-right",
       },
       3: {
         content:
           "Regulation of nerve impulses and transport of oxygen to the brain.",
         title: "Iron",
-        iconName: "fa-solid fa-leaf",
+        iconName: "fa-regular fa-starfighter-twin-ion-engine",
       },
       4: {
         content:
           "Attention, focus, brain fog, structure and function of brain cells.",
         title: "DHA & EPA",
-        iconName: "fa-solid fa-leaf",
+        iconName: "fa-duotone fa-arrows-to-eye",
       },
       image: "Assets/image3.png",
     },
