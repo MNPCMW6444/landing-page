@@ -260,7 +260,7 @@ select {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
     border-color: #7f7f7f;
     border-width: 1px;
     border-radius: 0;
@@ -1703,7 +1703,7 @@ html {
 
 .text-gray-900 {
     --tw-text-opacity: 1;
-    color: rgb(25 25 25 / var(--tw-text-opacity))
+    color: rgb(255 255 255 / var(--tw-text-opacity))
 }
 
 .text-gray-600 {
@@ -1723,7 +1723,7 @@ html {
 
 .text-white {
     --tw-text-opacity: 1;
-    color: rgb(255 255 255 / var(--tw-text-opacity))
+    color: rgb(25 25 255 / var(--tw-text-opacity))
 }
 
 .text-blue-600 {
@@ -1756,8 +1756,9 @@ html {
     color: rgb(153 153 153 / var(--tw-text-opacity))
 }
 
-.text-transparent {
-    color: transparent
+.text-gray-300 {
+    --tw-text-opacity: 1;
+    color: rgb(223 223 223 / var(--tw-text-opacity))
 }
 
 .text-gray-300 {
