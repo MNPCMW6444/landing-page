@@ -11,16 +11,16 @@ let content = {
     pages: {
         1: {
             1: {
-                content: "Improves cognition and increases the release of nerver growth factor.",
-                title: "Lion’s mane mushroom",
+                content: "Cognitive function and memory antiaoxidant properties and anti-inflamatory effects- protect the brain from oxidative stress and damage.",
+                title: "Bilberry fruit",
             },
             2: {
-                content: "Boosts memory and cognitive speed!",
-                title: "Ginko Bilboa",
+                content: "Increase the production of acetylcholine. a neurotransmitter that is involved in learning and memory.",
+                title: "DMAE",
             },
             3: {
-                content: "Boosts neuronal function and reduces stress and anxiety to promote cerebral calmness.",
-                title: "Ashwagandha1",
+                content: "Emotion regulation, sharpness and working memory.",
+                title: "Green Tea",
             },
             4: {
                 content: "Increases certain brain chemicals involved in thinking, and memory.",
@@ -30,39 +30,39 @@ let content = {
         },
         2: {
             1: {
-                content: "Improves cognition and increases the release of nerver growth factor.",
-                title: "Lion’s mane mushroom",
+                content: "Reducing the risk of age-relates cognitive decline, synthesis of neurotransmitters, regulation of nerve impulses, and maintenance of health brain cells.",
+                title: "Magnesium",
             },
             2: {
-                content: "Boosts memory and cognitive speed!",
-                title: "Ginko Bilboa",
+                content: "Inhibiting the breakdown of acetylcholine. A neurotransmitter that is involved in learning and memory. Antioxidant properties",
+                title: "Huperzine A",
             },
             3: {
-                content: "Boosts neuronal function and reduces stress and anxiety to promote cerebral calmness.",
-                title: "Ashwagandha2",
+                content: "Memory and cognitive performance, anti-inflammatory effects, reducing the risk of age- related cognitive decline.",
+                title: "Zinc",
             },
             4: {
-                content: "Increases certain brain chemicals involved in thinking, and memory.",
-                title: "Bacopa Monnieri",
+                content: "Synthesis and metabolism of neurotransmitters, attention, executive functions and memory.",
+                title: "Phosphatidylserine",
             },
             image: "Assets/image2.png"
         },
         3: {
             1: {
-                content: "Improves cognition and increases the release of nerver growth factor.",
-                title: "Lion’s mane mushroom",
+                content: "Vitamin C is an antioxidant that helps protect the brain, vitamins B6, B12 and folate(B9) are important for the synthesis of neurotransmitters.",
+                title: "Vitamins",
             },
             2: {
-                content: "Boosts memory and cognitive speed!",
-                title: "Ginko Bilboa",
+                content: "Regulation of nerve impulses and has a calming effect on the brain, reduce anxiety and stress, improve mood.",
+                title: "Gaba",
             },
             3: {
-                content: "Boosts neuronal function and reduces stress and anxiety to promote cerebral calmness.",
-                title: "Ashwagandha",
+                content: "Regulation of nerve impulses and transport of oxygen to the brain.",
+                title: "Iron",
             },
             4: {
-                content: "Increases certain brain chemicals involved in thinking, and memory.",
-                title: "Bacopa Monnieri",
+                content: "Attention, focus, brain fog, structure and function of brain cells.",
+                title: "DHA & EPA",
             },
             image: "Assets/image3.png"
         }
