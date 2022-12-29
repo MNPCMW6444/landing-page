@@ -31,7 +31,7 @@ let content = {
         title: "Bacopa Monnieri",
         iconName: "fa-solid fa-brain-circuit",
       },
-      image: "Assets/image1.png",
+      image: "Assets/braingain.png",
     },
     2: {
       1: {
@@ -58,7 +58,7 @@ let content = {
         title: "Phosphatidylserine",
         iconName: "fa-duotone fa-head-side-brain",
       },
-      image: "Assets/image2.png",
+      image: "Assets/hey.png",
     },
     3: {
       1: {
