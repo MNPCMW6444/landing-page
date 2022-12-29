@@ -157,7 +157,7 @@ img {
     position: relative;
     color: black;
     transition: all 0.3s linear;
-    -webkit-border-radius: 15px;
+    -webkit-border-radius: 65px;
     margin-bottom: 30px;
     min-height: 220px;
     max-height: 220px;
