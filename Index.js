@@ -10,24 +10,24 @@ let content = {
     1: {
       1: {
         content:
-          "Cognitive function and memory antiaoxidant properties and anti-inflamatory effects- protect the brain from oxidative stress and damage.",
+          " Enhances Cognitive function and memory, and anti-inflammatory effects.",
         title: "Bilberry fruit",
         iconName: "fa-regular fa-blueberries",
       },
       2: {
         content:
-          "Increase the production of acetylcholine. a neurotransmitter that is involved in learning and memory.",
+          "May increase acetylcholine levels, a neurotransmitter involved in learning and memory",
         title: "DMAE",
         iconName: "fa-brands fa-envira",
       },
       3: {
-        content: "Emotion regulation, sharpness and working memory.",
+        content: "Emotional regulation, sharpness and working memory.",
         title: "Green Tea",
         iconName: "fa-solid fa-leaf",
       },
       4: {
         content:
-          "Increases certain brain chemicals involved in thinking, and memory.",
+          "Increases brain chemicals involved in thinking, learning and memory.",
         title: "Bacopa Monnieri",
         iconName: "fa-solid fa-brain-circuit",
       },
@@ -36,25 +36,25 @@ let content = {
     2: {
       1: {
         content:
-          "Reducing the risk of age-relates cognitive decline, synthesis of neurotransmitters, regulation of nerve impulses, and maintenance of health brain cells.",
+          "Helps with age-related cognitive decline and maintenance of healthy brain cells.",
         title: "Magnesium",
         iconName: "fa-solid fa-trillium",
       },
       2: {
         content:
-          "Inhibiting the breakdown of acetylcholine. A neurotransmitter that is involved in learning and memory. Antioxidant properties",
+          "Has antidioxant properties and inhibits breakdown of acetylcholine.",
         title: "Huperzine A",
         iconName: "fa-duotone fa-ear-deaf",
       },
       3: {
         content:
-          "Memory and cognitive performance, anti-inflammatory effects, reducing the risk of age- related cognitive decline.",
+          "Enhances Memory and cognitive performance, helps with age-related cognitive decline.",
         title: "Zinc",
         iconName: "fa-duotone fa-leafy-green",
       },
       4: {
         content:
-          "Synthesis and metabolism of neurotransmitters, attention, executive functions and memory.",
+          "Improves neurotransmitter synthesis, attention, executive functions and memory.",
         title: "Phosphatidylserine",
         iconName: "fa-duotone fa-head-side-brain",
       },
@@ -63,25 +63,25 @@ let content = {
     3: {
       1: {
         content:
-          "Vitamin C is an antioxidant that helps protect the brain, vitamins B6, B12 and folate(B9) are important for the synthesis of neurotransmitters.",
+          "Our vitamin choices are focused on protection of the brain and neurotransmitter synthesis",
         title: "Vitamins",
         iconName: "fa-duotone fa-capsules",
       },
       2: {
         content:
-          "Regulation of nerve impulses and has a calming effect on the brain, reduce anxiety and stress, improve mood.",
+          "nerve impulse regulation, improves mood while reducing anxiety and stress.",
         title: "Gaba",
         iconName: "fa-duotone fa-brain-arrow-curved-right",
       },
       3: {
         content:
-          "Regulation of nerve impulses and transport of oxygen to the brain.",
+          "Nerve impulse regulation and oxygen transportation to the brain.",
         title: "Iron",
         iconName: "fa-regular fa-starfighter-twin-ion-engine",
       },
       4: {
         content:
-          "Attention, focus, brain fog, structure and function of brain cells.",
+          "Supports attention and focus, reduces brain fog and improves the structure and function of brain cells",
         title: "DHA & EPA",
         iconName: "fa-duotone fa-arrows-to-eye",
       },
