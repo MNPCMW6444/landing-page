@@ -85,7 +85,7 @@ let content = {
         title: "DHA & EPA",
         iconName: "fa-duotone fa-arrows-to-eye",
       },
-      image: "Assets/image3.png",
+      image: "Assets/bnf.png",
     },
   },
 };

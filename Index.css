@@ -117,6 +117,9 @@ img {
 #header_2_content,
 #header_3_content,
 #header_4_content {
+    padding-right: 40px;
+    width: 230px;
+   font-size: 17px;
     -webkit-transition: opacity .5s ease-in-out;
     -moz-transition: opacity .5s ease-in-out;
     -ms-transition: opacity .5s ease-in-out;
@@ -220,7 +223,7 @@ img {
     }
 
     .inCardContentBox {
-        padding-left: 0px !important;
+        padding-left: 100px !important;
     }
 
     .videoContainer {
