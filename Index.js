@@ -81,7 +81,7 @@ let content = {
       },
       4: {
         content:
-          "Supports attention and focus, reduces brain fog and improves the structure and function of brain cells",
+          "Supports attention and focus, reduces brain fog and improves the function of brain cells",
         title: "DHA & EPA",
         iconName: "fa-duotone fa-arrows-to-eye",
       },
